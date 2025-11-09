@@ -2,5 +2,7 @@
 ### Welcome to my info sec notebook
 
 **Topics**
-- [CSRF Directory](./000-CSRF)
+- [CSRF](./000-CSRF)
+- [WebSockets](./001-WebSockets)
+- [CORS](./002-CORS)
 - 
